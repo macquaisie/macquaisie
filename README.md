@@ -22,12 +22,12 @@ Welcome! My Name is Mark!
 <img width="200" alt="Microsoft Azure Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/4efd69b2-7308-40cb-b48d-5e726610d472"/>
 
 ### <b>Azure Cloud SOC</b>
-  - [Creating an Azure Cloud SOC + Honeynet](https://#github.com/JohnSomanza/Cloud-SOC-Honeynet)
+  - [Creating an Azure Cloud SOC + Honeynet](https://github.com/macquaisie/Cloud-SOC-Honeynet/blob/main/README.md)
 
 <img width="100" alt="Duo Logo" src="https://github.com/user-attachments/assets/bcca3ad5-3bac-493d-bb73-00117e0de0c1"/>
 
 ### <b>Duo Multi-Factor Authentication (MFA)</b>
-  - [Implementing Duo MFA On RDP](https://#github.com/JohnSomanza/Securing-RDP-With-MFA)
+  - [Implementing Duo MFA On RDP](https://github.com/macquaisie/Securing-RDP-With-MFA-Main/blob/main/README.md)
 
 <img width="75" alt="VirtualBox" src="https://i.imgur.com/I0JMJZi.png"/>
 
