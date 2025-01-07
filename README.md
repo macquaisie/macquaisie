@@ -46,21 +46,12 @@ Welcome! My Name is Mark!
   - [osTicket: Post-Installation Configuration](https://#github.com/JohnSomanza/Post-Install-Config.git)
   - [osTicket: Ticket Lifecycle Examples](https://#github.com/JohnSomanza/Ticket-Lifecycle.git)
 
-<img width="100" alt="WGU Labs" src="https://cdn.cookielaw.org/logos/f6416a60-3927-4eb2-af84-637e45e52bfe/16f71b10-29aa-48ab-91b1-9d59aece5512/b425ec24-10d8-4aa7-9559-64734c41e640/WGU-MarketingLogo_NATL_RGB_Color_Owl_WGU_NoTag_Stacked_7-2021.png"/>
 
-### <b>C844 Emerging Technologies in Cybersecurity Lab</b>
-  - [Task 1: NMAP And WIRESHARK](https://#github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab.git)
-  - [Task 2: WLAN And MOBILE SECURITY PLAN](https://#github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab-Pt.2.git)
-
-### <b>D431 Digital Forensics Lab</b>
-  - [Task 1: Investigative Plan of Action](https://#github.com/John-Somanza/D431-Digital-Forensics-Lab.git)
-  - [Task 2: Forensic Investigation](https://#github.com/John-Somanza/D431-Digital-Forensics-Lab-Pt.2.git)
 
  </br>
 
 <h2>📜 Certifications:</h2>
 
-https://images.credly.com/size/680x680/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob
 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/37e741f1-110c-4f76-a92f-13b9c09f71e1/public_url">
