@@ -32,7 +32,7 @@ Welcome! My Name is Mark!
 <img width="75" alt="VirtualBox" src="https://i.imgur.com/I0JMJZi.png"/>
 
 ### <b>Active Directory</b>
-  - [Home Lab Running Active Directory On VirtualBox](https://#github.com/JohnSomanza/Active-Directory-On-VirtualBox)
+  - [Home Lab Running Active Directory On VirtualBox](https://github.com/macquaisie/Active-Directory-On-VirtualBox/blob/main/README.md)
 
 <img width="50" alt="Qualys" src="https://i.imgur.com/xbCNhxJ.png"/>
 
