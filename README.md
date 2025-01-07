@@ -60,21 +60,20 @@ Welcome! My Name is Mark!
 
 <h2>📜 Certifications:</h2>
 
+https://images.credly.com/size/680x680/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob
+
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/a6d11c17-9850-4ac1-815f-d625b9be3856/public_url">
+<a href="https://www.credly.com/badges/37e741f1-110c-4f76-a92f-13b9c09f71e1/public_url">
     <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Comptia Security +" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/a61c9eac-6e91-444b-a3dc-ea605460e21b/public_ur">
-    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Comptia Network +" width="140" height="140"/>
+<a href="https://www.credly.com/badges/9545e89e-b5d5-455a-baa6-8ea23b888749/public_url">
+    <img src="https://images.credly.com/size/680x680/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Professional Certificate +" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/45afae35-869b-4159-888d-d8e501abde42/public_url">
-    <img src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="Comptia A +" width="140" height="140"/>
+<a href="https://www.credly.com/badges/0cf5f491-495f-496c-ba9c-8eab565977f5/public_url">
+    <img src="https://images.credly.com/size/680x680/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob" alt="Project Management Professional (PMP)® +" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7169912503064313856?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7169912503064313856%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6c1RZxJJTmKNgcp5MukwFw%3D%3D">
-    <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC)" width="140" height="140"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7148495586604769281?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7148495586604769281%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6vFYrXAFQ0uO%2B%2BJtE09JcQ%3D%3D">
-    <img src="https://images.credly.com/size/340x340/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png" alt="ITIL 4 Foundation" width="140" height="140"/>
+<a href="https://drive.google.com/file/d/1txhMGkH4nAmrAulF2v_H26FVFHA6ITUM/view?usp=drive_link">
+    <img src="https://images.credly.com/size/340x340/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png" alt="ITIL Foundation" width="140" height="140"/>
 </a>
 
 
